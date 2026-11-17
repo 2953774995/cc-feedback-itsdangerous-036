@@ -1,8 +1,7 @@
-.idea/
-.vscode/
+.venv/
 __pycache__/
+*.pyc
+evidence/
 dist/
-.coverage*
-htmlcov/
-.tox/
-docs/_build/
+build/
+*.egg-info/
